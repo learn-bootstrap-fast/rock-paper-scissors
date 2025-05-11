@@ -1,0 +1,15 @@
+Create a responsive HTML hero section under the nave bar using Bootstrap 5. The viewport should occupy 70% of the viewport.
+
+- Use a gradient background with the following coordinates:
+
+background: #235778;
+background: linear-gradient(90deg,rgba(35, 87, 120, 1) 0%, rgba(30, 19, 64, 1) 50%, rgba(61, 8, 51, 1) 100%);
+
+- On the left: add a large heading that says "Your one stop shop for AWS Certification success".
+- Below it, include a short paragraph saying "Free AWS exams, expert guidance and expertly sourced answers. Get started on your new career today!"
+- Add two rounded buttons underneath: one for the 'Download the App' with an Apple icon, and one for 'Play Online' with a play icon.
+- On the right side, add a Bootstrap carousel displaying the various 16:9 images located in the images\hero folder.
+- Ensure this section is responsive and stacks vertically on smaller screens.
+- At the bottom of the hero section, use the waves.svg file in the images folder as a divider between this and the next section. Animate the svg to make the page look more exciting.
+
+
